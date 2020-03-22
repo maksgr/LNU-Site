@@ -1,0 +1,2 @@
+# LNU-Site
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d2ba6cb2e2ce4766ac877e23cb3f7841)](https://app.codacy.com/manual/maksgr/LNU-Site?utm_source=github.com&utm_medium=referral&utm_content=maksgr/LNU-Site&utm_campaign=Badge_Grade_Dashboard)
